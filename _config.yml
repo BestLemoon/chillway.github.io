@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jingwei Zhu(朱泾渭)"
-description              : "电磁无损检测"
+description              : "Researcher at Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
 repository               : "BestLemoon/chillway.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/1724039925360.jpg"
   bio              : "University of Science and Technology of China"
   location         : "Shenzhen, China"
-  employer         : "Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
+  employer         : #"Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GDwQQsMAAAAJ"
   email            : "jingweizhu@mail.ustc.edu.cn"
